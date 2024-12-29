@@ -1,0 +1,54 @@
+body{
+    background-color: rgb(231, 214, 116);
+}
+div{
+    border: 12px double black;
+    padding: 30px;
+    margin: 15px;
+    background-color: white;
+}
+
+p{
+    color: black;
+    text-align: center;
+    font-family: Calibri (Corps);
+    font-size: 120%;
+
+}
+
+h1{
+    color: black;
+    font-size: 350%;
+    font-family: High Tower Text;
+    text-align: center;
+    text-shadow: 4px 4px white;
+}
+
+
+table , td , th{
+    border: 2px solid black;
+}
+
+
+td,th{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: left;
+}
+
+
+tr :hover{
+    background-color: yellow;
+}
+
+#para{
+    background-color: rgb(52, 52, 85);
+}
+
+.c{
+    text-align: center;
+    background-color: yellow;
+    color: black;
+}
